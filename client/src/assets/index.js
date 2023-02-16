@@ -1,7 +1,7 @@
 import logo from './logo.svg';
-import yariga from './yariga.svg';
+import psasset from './ps-asset.svg';
 
 export {
   logo,
-  yariga,
+  psasset,
 };
